@@ -16,6 +16,9 @@ android-we-can
 11. Renderizar imagens no ImageView por uma URL - Ion
 12. Adicionar loader para carregamento de dados
 
+### Gists
+[Android Annotations - Config](https://gist.github.com/Pierry/f7944ed8ecd7dcb6d1b2a806dbf8d3d1)
+
 ### Libs
 
 - AndroidAnnotations - View injection, di, threads

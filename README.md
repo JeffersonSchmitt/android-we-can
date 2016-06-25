@@ -7,6 +7,7 @@ android-we-can
 2. Configurar o banco de dados - ActiveAndroid
 3. Criar camada de domínio
 4. Criar camada de repositório
+5. Início do uso de dependency injection
 5. Criar camada da API
 6. Criar tela HomeActivity
 7. Adicionar Toolbar
@@ -15,6 +16,9 @@ android-we-can
 10. Renderizar RecyclerView
 11. Renderizar imagens no ImageView por uma URL - Ion
 12. Adicionar loader para carregamento de dados
+
+### Gists
+[Android Annotations - Config](https://gist.github.com/Pierry/f7944ed8ecd7dcb6d1b2a806dbf8d3d1)
 
 ### Libs
 
